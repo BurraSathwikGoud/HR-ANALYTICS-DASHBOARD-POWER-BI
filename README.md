@@ -48,11 +48,9 @@ This project involves building an interactive HR Analytics Dashboard using **Pow
 * Visual Analytics and Report Building
 * Insight Interpretation for HR Stakeholders
 
-## 📂 Output
+## 📎 Report Preview
 
-The output is an interactive Power BI report that enables slicing data across multiple dimensions to uncover patterns in employee attrition.
-Have a look at the Dashboard: 
+👉 [View the HR Analytics Dashboard Output (PDF)](https://github.com/BurraSathwikGoud/HR-Analytics-Dashboard-PowerBI/blob/main/HR%20ANALYTICS%20DASHBOARD%20output.pdf)
 
 ---
-
 
